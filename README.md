@@ -30,3 +30,7 @@ I developed comprehensive Pivot Tables for each of the 12 months to compare user
 - Seasonal Conversion Campaigns: Data shows casual usage peaks during specific months (likely summer/spring). Launch "Early Bird" annual membership discounts right before these peak seasons to capture casual riders before they start their high-frequency riding period.
 - Highlight "Ride Length" Value: Casual riders take significantly longer trips. Marketing materials should emphasize that annual memberships are more cost-effective for long-duration rides compared to single-trip or 24-hour passes, which often have overage fees or higher hourly rates.
 - Commuter Challenges: To encourage casual riders to use bikes for commuting (the behavior seen in members), implement a "Ride to Work" rewards program. Offer points or discounts to casual riders who use bikes during weekday morning and evening rush hours.
+
+## HOW TO VIEW THIS PROJECT
+1. Open the Google Sheets file CONSOLIDADO ANUAL 2025-2026 in this repository
+2. Review the formulas, pivot tables and Vizs created
