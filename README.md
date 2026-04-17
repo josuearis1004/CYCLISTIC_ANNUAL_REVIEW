@@ -34,3 +34,4 @@ I developed comprehensive Pivot Tables for each of the 12 months to compare user
 ## HOW TO VIEW THIS PROJECT
 1. Open the Google Sheets file CONSOLIDADO ANUAL 2025-2026 in this repository
 2. Review the formulas, pivot tables and Vizs created
+3. Review the full work on the next link https://drive.google.com/drive/folders/1U_ACNrFcimb99KEkO9bhg8bf9MFiArKu?usp=sharing
