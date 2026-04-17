@@ -20,6 +20,7 @@ I developed comprehensive Pivot Tables for each of the 12 months to compare user
 - Peak usage times for members vs. casual riders.
 ## VIZ AND KEY FINDINGS
 <img width="1250" height="468" alt="image" src="https://github.com/user-attachments/assets/35895cc0-d1e6-4693-ab97-515b1c44c3af" />
+
 ## Strategic Question: How do members and casual riders differ?
 - Finding 1: Casual riders are predominantly weekend users. The data reveals that while total ride volume peaks on weekends (especially Saturdays), it's the casual riders who drive this trend. They use bikes significantly more during these two days than on weekdays.
 - Members are consistent commuters, dominating weekday activity. In contrast to casual riders, annual members have stable, predictable usage throughout the workweek (Monday to Friday). Their activity patterns align clearly with daily work commute schedules, suggesting they use Cyclistic primarily for transportation, not leisure.
